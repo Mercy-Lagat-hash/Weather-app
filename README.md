@@ -1,5 +1,4 @@
 # Weather-app
-Final Project
 ======
 Author : Mercy Lagat
 ======
